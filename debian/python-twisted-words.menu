@@ -1,0 +1,5 @@
+?package(python-twisted-words):\
+	needs="x11"\
+	section="Apps/Net"\
+	title="Twisted Instance Messenger"\
+	command="/usr/bin/im"

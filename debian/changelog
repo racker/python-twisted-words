@@ -1,3 +1,10 @@
+twisted-words (12.1.0-1~ppa1~lucid1) lucid; urgency=low
+
+  * New upstream version.
+  * Rebuild package for use in PPA.
+
+ -- Jessica McKellar <jesstess@mit.edu>  Fri, 29 Jun 2012 10:00:02 -0400
+
 twisted-words (12.0.0-1~ppa1~lucid1) lucid; urgency=low
 
   * New upstream version.
